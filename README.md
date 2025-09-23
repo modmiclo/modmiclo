@@ -48,8 +48,8 @@ Normes, Tests, Analyse de code, Méthodes de conception : UML, Merise/2
 
 ---
 
-## 🧑‍💻 Expériences
+## 💻 Expériences
 
 **Stage – INSERM** (4 semaines, 2025)  
-- Documentation de fonctions R et développement de fonctions en C++  
+- Documentation en anglais de fonctions R et développement de fonctions en C++  
 - Création d’une fonction C++ avec interface R à partir d’un cahier des charges  

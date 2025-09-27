@@ -24,9 +24,10 @@ Normes, Tests, Analyse de code, Méthodes de conception : UML, Merise/2
 
 ## 🌟 Portfolio et réseaux
 
-- Portfolio : [Maud Miclo Portfolio](https://bnygbik.my.canva.site/maud-miclo-portfolio)  
-- GitHub : [modmiclo](https://github.com/modmiclo)  
-- LinkedIn : [Maud Miclo](https://www.linkedin.com/in/maud-miclo-168476330/)  
+- Portfolio : [Portfolio Maud Miclo](https://bnygbik.my.canva.site/maud-miclo-portfolio)
+- LinkedIn : [LinkedIn Maud Miclo](https://www.linkedin.com/in/maud-miclo-168476330/)
+- CV : [CV Maud Miclo](https://drive.google.com/file/d/1MfWiOw-HHBlOyJ08e8YwmlH-4OxbyOaf/view?usp=sharing)
+- GitHub : [GitHub modmiclo](https://github.com/modmiclo)  
 
 ---
 

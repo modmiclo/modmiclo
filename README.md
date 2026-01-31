@@ -51,6 +51,12 @@ Normes, Tests, Analyse de code, Méthodes de conception : UML, Merise/2
 
 ## 💻 Expériences
 
-**Stage – INSERM** (4 semaines, 2025)  
+**Stage – Institut National de la Santé et de la Recherche Médicale (INSERM)** (4 semaines, 2025)  
 - Documentation en anglais de fonctions R et développement de fonctions en C++  
 - Création d’une fonction C++ avec interface R à partir d’un cahier des charges  
+
+**Stage – Mutualité Française Alsace (MFA)** (7 semaines, 2025-2026)  
+Reprise et finalisation de deux applications web internes.
+- Trident : application d’impression d’étiquettes médicales (ZPL) sur imprimantes Zebra et gestion de la stérilisation (QR codes, historique, export CSV, administration).
+- MFA Téléphonie : tableau de bord de statistiques d’appels OVH (KPI, filtres, graphiques Chart.js), collecte automatisée via CRON, persistance MySQL et statistiques par agent.
+Restructuration de l’architecture, correction de dysfonctionnements, sécurisation (XSS, injections SQL, CSP), déploiement sur serveur dédié (Apache/HTTPS) et documentation.

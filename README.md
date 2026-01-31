@@ -41,11 +41,11 @@ Normes, Tests, Analyse de code, Méthodes de conception : UML, Merise/2
 
 ## 🏫 Formation
 
-**BTS Services Informatiques aux Organisations (SLAM)** – CNED  
-*2024 – 2026 (à distance)*  
+**Brevet de technicien supérieur Services Informatiques aux Organisations option Solutions Logicielles et Applications Métiers** – CNED  
+*2024 – Présent*  
 
-**Baccalauréat STI2D** – Lycée Blaise Pascal, Colmar  
-*2018 – 2021, Mention Bien, option Systèmes d’information et numérique*  
+**Baccalauréat sciences et technologies de l’industrie et du développement durable option Systèmes d’information et numérique** – Lycée Blaise Pascal, Colmar  
+*2018 – 2021, Mention Bien*  
 
 ---
 

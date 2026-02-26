@@ -1,12 +1,12 @@
 # Bonjour, je suis Maud MICLO !
 
-🎓 **Étudiante en 2ème année de BTS Services Informatiques aux Organisations (option Solution Logicielles et Applications Métiers)** au CNED  
-💻 Passionnée par le **développement d’applications et le développement logiciel**  
-🔍 **Recherche un stage de 6 semaines avant mi-mars 2026** dans le cadre de ma formation  
+**Étudiante en 2ème année de BTS Services Informatiques aux Organisations (option Solution Logicielles et Applications Métiers)** au CNED  
+Passionnée par le **développement d’applications et le développement logiciel**  
+**Recherche un stage de 6 semaines avant mi-mars 2026** dans le cadre de ma formation  
 
 ---
 
-## 🛠️ Compétences techniques
+## Compétences techniques
 
 **Langages de programmation :**  
 C#, C++, Java, R, Python, HTML/CSS, Javascript, PHP  
@@ -22,7 +22,7 @@ Normes, Tests, Analyse de code, Méthodes de conception : UML, Merise/2
 
 ---
 
-## 🌟 Portfolio et réseaux
+## Portfolio et réseaux
 
 - Portfolio : [Portfolio Maud Miclo](https://bnygbik.my.canva.site/maud-miclo-portfolio)
 - LinkedIn : [LinkedIn Maud Miclo](https://www.linkedin.com/in/maud-miclo-168476330/)
@@ -31,7 +31,7 @@ Normes, Tests, Analyse de code, Méthodes de conception : UML, Merise/2
 
 ---
 
-## 💡 Compétences transversales
+## Compétences transversales
 - Communication  
 - Collaboration  
 - Rigueur  
@@ -39,7 +39,7 @@ Normes, Tests, Analyse de code, Méthodes de conception : UML, Merise/2
 
 ---
 
-## 🏫 Formation
+## Formation
 
 **Brevet de technicien supérieur Services Informatiques aux Organisations option Solutions Logicielles et Applications Métiers** – CNED  
 *2024 – Présent*  
@@ -49,7 +49,7 @@ Normes, Tests, Analyse de code, Méthodes de conception : UML, Merise/2
 
 ---
 
-## 💻 Expériences
+## Expériences
 
 **Stage – Institut National de la Santé et de la Recherche Médicale (INSERM)** (4 semaines, 2025)  
 - Documentation en anglais de fonctions R et développement de fonctions en C++  

@@ -2,7 +2,6 @@
 
 **Étudiante en 2ème année de BTS Services Informatiques aux Organisations (option Solution Logicielles et Applications Métiers)** au CNED  
 Passionnée par le **développement d’applications et le développement logiciel**  
-**Recherche un stage de 6 semaines avant mi-mars 2026** dans le cadre de ma formation  
 
 ---
 

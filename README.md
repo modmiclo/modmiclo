@@ -1,6 +1,6 @@
 # Bonjour, je suis Maud MICLO !
 
-**Étudiante en 3ème année de licence professionnelle Métiers de l'Informatique - Applications Web à l'université de Limoges suite à l'obtention de mon BTS Services Informatiques aux Organisations (option Solution Logicielles et Applications Métiers)** au CNED  
+**Étudiante en 3ème année de licence professionnelle Métiers de l'Informatique - Applications Web** à l'université de Limoges suite à l'obtention de mon BTS Services Informatiques aux Organisations (option Solution Logicielles et Applications Métiers) au CNED  
 Passionnée par le **développement d’applications et le développement logiciel**  
 
 ---

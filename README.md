@@ -1,7 +1,9 @@
 # Bonjour, je suis Maud MICLO !
 
 **Étudiante en 3ème année de licence professionnelle Métiers de l'Informatique - Applications Web** 
+
 **Recherche un stage de 13 semaines à partir de mars 2027**
+
 Passionnée par le **développement d’applications et le développement logiciel**  
 
 ---

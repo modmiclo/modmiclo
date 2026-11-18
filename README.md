@@ -16,11 +16,16 @@ C#, C++, Java, R, Python, HTML/CSS, Javascript, PHP
 **Bases de données :**  
 MySQL, PostgreSQL, MongoDB  
 
-**Outils et environnements :**  
-Visual Studio, RStudio, Git/GitHub, WordPress, CMS  
+**Cybersécurité :**
+- Protection des données et gestion des identités numériques
+- Disponibilité, intégrité et confidentialité des services informatiques
+- Sécurisation applicative, prévention et réponse aux cyberattaques
 
-**Méthodes et qualité logicielle :**  
-Normes, Tests, Analyse de code, Méthodes de conception : UML, Merise/2  
+**Outils et environnements de développement :**  
+- Méthodes et gestion de projet : Agile / Scrum
+- Outils de versionnement : Git/Github
+- Qualité logicielle : Normes, Tests, Analyse de code 
+- Méthodes de conception : Merise/2, UML
 
 ---
 
@@ -59,13 +64,13 @@ Normes, Tests, Analyse de code, Méthodes de conception : UML, Merise/2
 
 ## Expériences
 
-**Stage - Mutualité Française Alsace (MFA)** (7 semaines, 2025-2026)  
+**Développeuse full-stack (stage) - Mutualité Française Alsace (MFA)** (7 semaines, 2025-2026)  
 Reprise et finalisation de deux applications web internes.
 - Trident : application d’impression d’étiquettes médicales (ZPL) sur imprimantes Zebra et gestion de la stérilisation (QR codes, historique, export CSV, administration).
 - MFA Téléphonie : tableau de bord de statistiques d’appels OVH (KPI, filtres, graphiques Chart.js), collecte automatisée via CRON, persistance MySQL et statistiques par agent.
 Restructuration de l’architecture, correction de dysfonctionnements, sécurisation (XSS, injections SQL, CSP), déploiement sur serveur dédié (Apache/HTTPS) et documentation.
 
-**Stage - Institut National de la Santé et de la Recherche Médicale (INSERM)** (4 semaines, 2025)  
+**Développeuse logiciel (stage) - Institut National de la Santé et de la Recherche Médicale (INSERM)** (4 semaines, 2025)  
 - Documentation en anglais de fonctions R et développement de fonctions en C++  
 - Création d’une fonction C++ avec interface R à partir d’un cahier des charges  
 
